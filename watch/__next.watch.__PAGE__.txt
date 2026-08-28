@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[74352,["/cs15-strategy-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-strategy-2026/_next/static/chunks/0d3tkj33oycf2.js","/cs15-strategy-2026/_next/static/chunks/0k9p9pyu2pfe8.js"],"default"]
+2:I[74352,["/cs15-strategy-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-strategy-2026/_next/static/chunks/0d3tkj33oycf2.js","/cs15-strategy-2026/_next/static/chunks/14o0znxrh1kom.js"],"default"]
 3:I[97367,["/cs15-strategy-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-strategy-2026/_next/static/chunks/0d3tkj33oycf2.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"assetBase":"/cs15-strategy-2026"}],[["$","script","script-0",{"src":"/cs15-strategy-2026/_next/static/chunks/0k9p9pyu2pfe8.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Jd6vs1OM9670Bvs0uJ3VI"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"assetBase":"/cs15-strategy-2026"}],[["$","script","script-0",{"src":"/cs15-strategy-2026/_next/static/chunks/14o0znxrh1kom.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"386jMt7NmSSwUU2FK7NIy"}
 5:null
